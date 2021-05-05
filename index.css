@@ -1,0 +1,65 @@
+*{
+    background-color: #160f16;
+    font-family: 'Quicksand';
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#toggle{
+    font-size: 50px;
+    padding: 10px;
+    font-family:'Dancing Script';
+}
+center{
+    margin:5px;
+}
+#input{
+    font-size: 25px;
+    font-family: 'Quicksand';
+    font-weight: 100;
+    padding: 10px;
+    width: 80%;
+    height: 58vh;
+    margin: 10px;
+    font-weight: lighter;
+    color:white;
+    text-align: left;
+
+}
+
+#submit{
+    background-color: #160f16;
+    color: white ;
+    font-family: 'Quicksand';
+    font-size: 20px;
+    font-weight: lighter;
+    width: 15vw;
+    height: 6vh;
+    max-width:15vw;
+    margin: 15px;
+    border: 1px solid white;
+}
+
+#output{
+    font-size: 25px;
+    font-family: 'Quicksand';
+    font-weight: 200;
+    padding: 10px;
+    overflow-wrap:break-word ;
+    text-align: left;
+    width: 80%;
+    height: 58vh;
+    color: white;	
+    margin: 10px;
+    text-align: left;
+}
+
+#random
+{
+    padding: 8px;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Bellefair';
+    font-weight: lighter;
+    font-stretch: semi-expanded;
+}
