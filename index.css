@@ -18,9 +18,10 @@ center{
     font-family: 'Quicksand';
     font-weight: 100;
     padding: 10px;
-    width: 80%;
-    height: 58vh;
-    margin: 10px;
+    width: 90%;
+    height: 45vh;
+    margin-top: 5px;
+    margin-bottom: 20px;
     font-weight: lighter;
     color:black;
     text-align: left;
@@ -32,9 +33,9 @@ center{
     font-family: 'Quicksand';
     font-size: 25px;
     font-weight: bold;
-    width: 15vw;
+    width: 30vw;
     height: 5%;
-    max-width:15vw;
+    max-width:30vw;
     padding: 10px;
     border: 1px solid black;
     text-align: center;
@@ -48,10 +49,11 @@ center{
     padding: 10px;
     overflow-wrap:break-word ;
     text-align: left;
-    width: 80%;
-    height: 58vh;
+    width: 90%;
+    height: 45vh;
     color: black;	
-    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
     text-align: left;
     border: 1px solid black;
 
@@ -61,8 +63,8 @@ center{
 {
     padding: 8px;
     text-align: center;
-    font-size: 30px;
-    font-family: 'Bellefair';
+    font-size: 25px;
+    font-family: 'Quicksand';
     font-weight: lighter;
     font-stretch: semi-expanded;
 }
