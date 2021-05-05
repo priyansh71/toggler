@@ -14,6 +14,7 @@ center{
     margin:5px;
 }
 #input{
+    border: 1px solid white;
     font-size: 25px;
     font-family: 'Quicksand';
     font-weight: 100;
@@ -38,6 +39,7 @@ center{
     max-width:15vw;
     padding: 10px;
     border: 1px solid white;
+    text-align: center;
 }
 
 #output{
@@ -52,6 +54,8 @@ center{
     color: white;	
     margin: 10px;
     text-align: left;
+    border: 1px solid white;
+
 }
 
 #random
