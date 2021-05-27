@@ -5,7 +5,7 @@
     text-align: center;
 }
 #toggle{
-    font-size: 50px;
+    font-size: 2em;
     padding: 10px;
     font-family:'Dancing Script';
 }
@@ -19,7 +19,7 @@ center{
     font-weight: 100;
     padding: 10px;
     width: 90%;
-    height: 45vh;
+    height: 40vh;
     margin-top: 5px;
     margin-bottom: 20px;
     font-weight: lighter;
@@ -50,7 +50,7 @@ center{
     overflow-wrap:break-word ;
     text-align: left;
     width: 90%;
-    height: 45vh;
+    height: 40vh;
     color: black;	
     margin-top: 5px;
     margin-bottom: 20px;
@@ -59,12 +59,23 @@ center{
 
 }
 
-#random
+#randomr
 {
-    padding: 8px;
+    padding: 4px;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.4rem;
     font-family: 'Quicksand';
     font-weight: lighter;
     font-stretch: semi-expanded;
+}
+
+#randoml
+{
+    padding: 4px;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'Quicksand';
+    font-weight: lighter;
+    font-stretch: semi-expanded;
+    font-style: italic;
 }

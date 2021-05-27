@@ -5,6 +5,12 @@ const toggler = () => {
 	const array1 = [];
 	const a = [];
 
+	for (b = 0; b <= length - 1; b++) {
+		if (word[b] == " ") {
+			word[b + 1] = " ";
+			length++;
+		}
+	}
 	for (i = 0; i <= length - 1; i++) {
 		array1.push(word[i]);
 
