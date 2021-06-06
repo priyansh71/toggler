@@ -1,81 +1,83 @@
-*{
-    font-family: 'Quicksand';
-    color: black;
-    font-size: 30px;
-    text-align: center;
+* {
+  font-family: "Quicksand";
+  color: black;
+  font-size: 30px;
+  text-align: center;
 }
-#toggle{
-    font-size: 2em;
-    padding: 10px;
-    font-family:'Dancing Script';
+#toggle {
+  font-size: 2em;
+  padding: 10px;
+  font-family: "Dancing Script";
 }
-center{
-    margin:5px;
+center {
+  margin: 5px;
 }
-#input{
-    border: 1px solid black;
-    font-size: 25px;
-    font-family: 'Quicksand';
-    font-weight: 100;
-    padding: 10px;
-    width: 90%;
-    height: 40vh;
-    margin-top: 5px;
-    margin-bottom: 20px;
-    font-weight: lighter;
-    color:black;
-    text-align: left;
-
-}
-
-#submit{
-    color: black ;
-    font-family: 'Quicksand';
-    font-size: 25px;
-    font-weight: bold;
-    width: 30vw;
-    height: 5%;
-    max-width:30vw;
-    padding: 10px;
-    border: 1px solid black;
-    text-align: center;
-    background-color: white;
+#input {
+  border: 1px solid black;
+  font-size: 25px;
+  font-family: "Quicksand";
+  font-weight: 100;
+  padding: 10px;
+  width: 80%;
+  height: 40vh;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  font-weight: lighter;
+  color: black;
+  text-align: left;
 }
 
-#output{
-    font-size: 25px;
-    font-family: 'Quicksand';
-    font-weight: 200;
-    padding: 10px;
-    overflow-wrap:break-word ;
-    text-align: left;
-    width: 90%;
-    height: 40vh;
-    color: black;	
-    margin-top: 5px;
-    margin-bottom: 20px;
-    text-align: left;
-    border: 1px solid black;
-
+#submit {
+  color: black;
+  font-family: "Quicksand";
+  font-size: 25px;
+  width: 20vw;
+  height: 5%;
+  max-width: 30vw;
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
 }
 
-#randomr
-{
-    padding: 4px;
-    text-align: center;
-    font-size: 1.4rem;
-    font-family: 'Quicksand';
-    font-weight: lighter;
-    font-stretch: semi-expanded;
+#output {
+  font-size: 25px;
+  font-family: "Quicksand";
+  font-weight: 200;
+  padding: 10px;
+  overflow-wrap: break-word;
+  text-align: left;
+  width: 80%;
+  height: 40vh;
+  color: black;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  text-align: left;
+  border: 1px solid black;
+  touch-action: none;
 }
 
-#randoml
-{
-    padding: 4px;
-    text-align: center;
-    font-size: 1.4rem;
-    font-family: 'Quicksand';
-    font-weight: lighter;
-    font-stretch: semi-expanded;
-    font-style: italic;
+#submit:hover {
+  border: 1px solid white;
+  color: white;
+  background-color: rgb(53, 53, 53);
+}
+#randomr {
+  padding: 8px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Quicksand";
+  font-weight: lighter;
+  font-stretch: semi-expanded;
+}
+
+#randoml {
+  padding: 8px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Quicksand";
+  font-weight: lighter;
+  font-stretch: semi-expanded;
+  font-style: italic;
 }
